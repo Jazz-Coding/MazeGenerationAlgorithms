@@ -29,4 +29,9 @@ Depth first search            |  Wilson's algorithm
 |256x256|256x256|
 
 
+## Running the program
+Included in the [release](https://github.com/Jazz-Coding/MazeGenerationAlgorithms/releases) page is the project JAR file. Run with Java Runtime Environment (JRE) >=14.0.
+The user interface should appear as follows:
+
+![gui_example](https://github.com/Jazz-Coding/MazeGenerationAlgorithms/assets/52354702/270fd109-e6fc-49ae-bb2f-4252f78b5e91)
 
